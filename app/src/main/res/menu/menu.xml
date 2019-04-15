@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Configurações"
+        android:id="@+id/menu_config"
+        android:icon="@drawable/ic_launcher_background"
+        app:showAsAction="never"/>
+    <item android:title="ligacoes"
+        android:id="@+id/menu_ligacoes"
+        android:icon="@drawable/ic_launcher_background"
+        app:showAsAction="never"/>
+</menu>
